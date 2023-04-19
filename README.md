@@ -14,7 +14,7 @@ A handy tool to search and copy JavaScript methods from MDN.
 
 ## Usage 🖥️
 
-[**DEMO**]()
+[**DEMO**](https://xmehdi01.github.io/js-method-finder)
 
 ## To-Do:
  - [ ] **Detailed descriptions**: Provide a brief description of each method, including its purpose, syntax, and parameters. You can fetch this information from the MDN API or web scrape the MDN documentation.  
